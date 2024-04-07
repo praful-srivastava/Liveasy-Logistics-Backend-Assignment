@@ -24,6 +24,7 @@ This project is a Spring Boot RESTful API implementation for managing loads for 
 ## Technologies Used
 - **Spring Boot**: For creating the RESTful API and managing dependencies.
 - **Spring Data JPA**: For interacting with the PostgreSQL database.
+- **Lombok**: For reducing boilerplate code in Java classes.
 - **PostgreSQL**: As the relational database to store load details.
 - **Maven**: As the build and dependency management tool.
 
