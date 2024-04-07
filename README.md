@@ -1,11 +1,11 @@
-##Liveasy Assignment - Spring Boot REST API
+## Liveasy Assignment - Spring Boot REST API
 
-##Overview:
+## Overview:
 
 This project is a Spring Boot RESTful API implementation for managing loads for a logistics company. It provides endpoints for adding, retrieving, updating, and deleting load details, along with querying loads by shipper ID. 
 
 
-##Features:
+## Features:
 
 Add a new load with details such as loading point, unloading point, product type, truck type, etc.
 Retrieve a list of loads by shipper ID.
@@ -13,14 +13,14 @@ Retrieve details of a specific load by its ID.
 Update details of a specific load.
 Delete a load by its ID.
 
-##Technologies Used:
+## Technologies Used:
 
 *Spring Boot: For creating the RESTful API and managing dependencies.
 *Spring Data JPA: For interacting with the PostgreSQL database.
 *PostgreSQL: As the relational database to store load details.
 *Maven: As the build and dependency management tool.
 
-##Setup:
+## Setup:
 
 Clone the repository: 
 ```
@@ -38,20 +38,20 @@ Run the application:
 ```
 mvn spring-boot:run
 ```
-##Configuration:
+## Configuration:
 
 Configure the PostgreSQL database properties in application.properties file.
 Make sure PostgreSQL is running on your local machine.
 
 
-##Usage:
+## Usage:
 
 Use tools like Postman or cURL to send requests to the provided endpoints for testing.
 Replace <UUID> with the actual UUID for the shipper ID and <loadId> with the actual ID of the load.
 
-##Contributors:
+## Contributors:
 Prafull Kumar Srivastava - Project Lead & Developer
 
-##Contact:
+## Contact:
 
 For any inquiries or feedback, feel free to contact me at prafullcse2019@gmail.com.
