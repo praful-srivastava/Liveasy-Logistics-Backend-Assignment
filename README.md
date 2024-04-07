@@ -49,7 +49,7 @@ This project is a Spring Boot RESTful API implementation for managing loads for 
 - Replace `<UUID>` with the actual UUID for the shipper ID and `<loadId>` with the actual ID of the load.
 
 ## Contributors
-- [Prafull Kumar Srivastav](https://github.com/praful-srivastava/) - Project Lead & Developer
+- [Prafull Kumar Srivastava](https://github.com/praful-srivastava/) - Project Lead & Developer
 
 
 ## Contact
