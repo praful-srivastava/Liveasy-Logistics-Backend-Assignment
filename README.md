@@ -22,7 +22,7 @@ Maven: As the build and dependency management tool.
 
 Setup:
 
-Clone the repository: git clone https://github.com/your_username/LiveasyAssignment.git
+Clone the repository: git clone https://github.com/praful-srivastava/LiveasyAssignment.git
 Navigate to the project directory: cd LiveasyAssignment
 Build the project: mvn clean install
 Run the application: mvn spring-boot:run
